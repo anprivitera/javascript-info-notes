@@ -1,5 +1,5 @@
-"use strict"
-numbers = [1, 3, 5];
+"use strict";
+const numbers = [1, 3, 5];
 function multiplier(numbers) {
     return numbers * 2;
 }
