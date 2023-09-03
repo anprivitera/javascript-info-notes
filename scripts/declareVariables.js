@@ -1,4 +1,4 @@
-"use strict";
+"strict mode";
 let admin,
     name,
     ourPlanetName,

@@ -1,2 +1,2 @@
-"use strict";
+"strict mode";
 document.getElementById("english").innerHTML=`Hello, World!`
