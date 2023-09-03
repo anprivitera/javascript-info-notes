@@ -1,5 +1,4 @@
-alert("Ciao, Mondo"); //this is a first statement
-alert("Come stai?"); //this is a second statement
-/*
-Testing multiline comment
+/* Testing multiline comment to disable part of the script.
+alert("Ciao, Mondo");
 */
+alert("Come stai?"); //this is a second statement
