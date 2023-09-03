@@ -1,11 +1,11 @@
 let admin,
     name,
-    planet,
-    user;
+    ourPlanetName,
+    currentUserName;
 name = "John";
 admin = name;
-planet = "Earth"
+ourPlanetName = "Earth"
 alert(admin);
-alert(planet);
+alert(ourPlanetName);
 
 
