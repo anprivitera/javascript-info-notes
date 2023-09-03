@@ -1,4 +1,4 @@
-"use strict";
+"strict mode";
 let newNumbers;
 const numbers = [1, 3, 5];
 function multiplier(numbers) {
