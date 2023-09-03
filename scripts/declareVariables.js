@@ -7,5 +7,3 @@ admin = name;
 ourPlanetName = "Earth"
 alert(admin);
 alert(ourPlanetName);
-
-
